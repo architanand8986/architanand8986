@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @architanand8986
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Generative AI and expploring AI-ML Domain.
-- 💞️ I’m looking to collaborate on projects which will help me inhance my ml skills.
+- 💞️ I’m looking to collaborate on projects which will help me enhance my ml skills.
 - 📫 You can reach me on linkedin: www.linkedin.com/in/archit-anand8986
 - 😄 Pronouns: He/Him
 
